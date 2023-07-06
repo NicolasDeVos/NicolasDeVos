@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @NicolasDeVos
-- 👀 I’m interested in C++, Python, FP, High perfomance and many more
+👋 Hi, I’m @NicolasDeVos
+- 👀 I’m interested in C++, Python, FP, High perfomance, UI and many more
 - 🌱 I’m currently learning ... (to come)
 - 💞️ I’m looking to collaborate on ... (to come)
 - 📫 How to reach me per mail on nico.de.vos@gmail.com
